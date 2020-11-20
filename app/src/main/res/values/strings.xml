@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyImgur</string>
+    <string name="image">image</string>
+    <string name="upload">upload</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="gallery">gallery</string>
+</resources>
